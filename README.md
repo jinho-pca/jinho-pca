@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/Spring Boot-6D8B33F?style=flat-square&logo=Spring&logoColor=white"/>  &nbsp 
-<!--   <img src="https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>&nbsp  -->
+  <img src="https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
