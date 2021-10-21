@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinho-pca&count_bg=%23FF69B4&title_bg=%239C8080&icon=github.svg&icon_color=%23F3EDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
 ## Github Stats  
