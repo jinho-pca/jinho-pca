@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Spring Boot-6D8B33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
-<!--   <img src="https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>&nbsp  -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
